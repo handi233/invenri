@@ -11,6 +11,11 @@ Tentang management arsip barang
 7. ketik browser 127.0.0.1:8000
 8. silahkan login username : admin , password: admin
 
+#Tentang Aplikasi
+1. Teknologi : Laravel 9
+2. Bahasa    : Php ,Css ,Javascript
+3. Database. : Mysql
+   
    Disclamer : isi db data fiktif,dan hanya project pribadi saja
 
 <img width="947" height="470" alt="Screenshot 2025-09-13 222326" src="https://github.com/user-attachments/assets/39718c32-190d-4f81-a9fa-58f40ed55ae7" />
